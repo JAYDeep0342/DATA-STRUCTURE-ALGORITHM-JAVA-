@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.showStaticVariables": true,
+    "java.debug.settings.showQualifiedNames": true,
+    "java.debug.settings.stepping.skipConstructors": false,
+    "java.debug.settings.stepping.skipStaticInitializers": false
+}
